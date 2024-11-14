@@ -1,0 +1,29 @@
+{
+  "name": "jogo-ds-us",
+  "version": "1.0.0",
+  "description": "Jogo na matéria de Back-end DS-us",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souzabweatriz/DS-us.git"
+  },
+  "keywords": [
+    "SENAI",
+    "Back-end",
+    "DS-us"
+  ],
+  "author": "Ana Beatriz de Souza de Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souzabweatriz/DS-us/issues"
+  },
+  "homepage": "https://github.com/souzabweatriz/DS-us#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
