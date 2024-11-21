@@ -1,9 +1,10 @@
 class Chat{
-    constructor(apelido, mensagens){
+    constructor(apelido, mensagem){
         this.apelido = apelido
-        this.mensagens = mensagens
-    } enviarMensagem(apelido, mensagens) {
-        return Date.now()
+        this.mensagem = mensagem
+    } enviarMensagem(apelido, mensagem) {
+        const time = Date.now();
+        console.log(`${time} - ${apelido}: ${mensagem}`);
     }
 }
 
