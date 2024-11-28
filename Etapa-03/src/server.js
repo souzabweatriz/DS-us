@@ -1,6 +1,6 @@
 import express from "express";
 import { config } from "dotenv";
-import rotas from "./routes/indexRoutes.js";
+import rotas from "./routes/index.routes.js";
 
 config();
 const portaServidor = process.env.PORT || 4000;
