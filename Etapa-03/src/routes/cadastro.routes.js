@@ -21,11 +21,21 @@ cadastroRoutes.post("/adicionar", (req, res) => {
 });
 
 cadastroRoutes.put("/atualizar", (req, res) => {
+    const {nome, email, telefone} = req.body;
 
+    if (!nome || !email || !telefone) {
+        return res.status(400).json({ message: "Dados inválidos" });
+    }
+    return res.status(200).json({ message: "Cadastro atualizado com sucesso" });
 });
 
 cadastroRoutes.delete("/remover", (req, res) => {
+    const {email} = req.body;
 
+    if (!email) {
+        return res.status(400).json({ message: "Cadastro não encontrado" });
+    }
+    return res.status(200).json({ message: "Cadastro removido com sucesso" });
 });
 
 export default cadastroRoutes;
