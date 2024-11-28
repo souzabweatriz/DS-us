@@ -10,7 +10,7 @@ O Jogo DS-us é baseado no jogo super conhecido Among-us, reproduzido pelas turm
 - JavaScript
 
 
-##🤹‍♀️Equipe
+##🤹‍♀️Equipe 5
 
 -Ana Beatriz de Souza de Oliveira 
 Criou as Etapas
