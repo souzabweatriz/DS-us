@@ -1,4 +1,4 @@
-class Chat{
+/*class Chat{
     constructor(apelido, mensagem){
         this.apelido = apelido
         this.mensagem = mensagem
@@ -9,4 +9,5 @@ class Chat{
 }
 
 export default Chat;
+*/
 
