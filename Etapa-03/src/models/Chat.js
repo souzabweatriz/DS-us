@@ -4,7 +4,7 @@ class Chat {
     } 
   //Aqui foi criada a classe Chat com um constructor com um atributo de mensagens 
     enviarMensagem(apelido, mensagem) {
-  //Aqui foi criado um atributo de enviar mensagens que tem apelido e mensagens 
+  //Aqui foi criado um método de enviar mensagens que tem apelido e mensagens 
       const data = new Intl.DateTimeFormat("pt-BR", {
         hour: "2-digit",
         minute: "2-digit",
