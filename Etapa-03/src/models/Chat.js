@@ -2,11 +2,11 @@ class Chat {
     constructor() {
       this.mensagens = [];
     } 
-    //Aqui foi criada a classe Chat com um constructor com um atributo de mensagens 
+    //Aqui foi criada a classe Chat com um constructor que recebe o atributo de array de mensagens 
 
     enviarMensagem(apelido, mensagem) {
   //Aqui foi criado um método de enviar mensagens que tem apelido e mensagens 
-      const data = new Intl.DateTimeFormat("pt-BR", {
+      const data = new Intl.DateTimeFormat("pt-BR", { // chamando método pra pegar horário atual
         hour: "2-digit",
         minute: "2-digit",
       }).format(new Date());
