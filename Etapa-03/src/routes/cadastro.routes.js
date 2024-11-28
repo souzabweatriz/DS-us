@@ -17,7 +17,7 @@ cadastroRoutes.post("/adicionar", (req, res) => {
 
     cadastros.push({ nome, email, telefone });
 
-    return res.status(201).json({ nome, email, telefone });
+    return res.status(201).json({ message: "Cadastro realizado com sucesso"});
 });
 
 cadastroRoutes.put("/atualizar", (req, res) => {
