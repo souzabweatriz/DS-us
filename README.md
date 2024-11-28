@@ -13,6 +13,11 @@ O Jogo DS-us é baseado no jogo super conhecido Among-us, reproduzido pelas turm
 ##🤹‍♀️Equipe
 
 -Ana Beatriz de Souza de Oliveira 
+Criou as Etapas
+Criou Models (arquivos) Etapa 1
 -Isabella Borin de Moraes Rosa
+Class Chat
 -Giovanna Alba Gomes
+Diagrama 
 -Maria Eduarda da Silva Parma
+Diagrama
