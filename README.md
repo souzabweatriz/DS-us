@@ -7,4 +7,12 @@ Este é um projeto desenvolvido no curso técnico de desenvolvimento de sistemas
 O Jogo DS-us é baseado no jogo super conhecido Among-us, reproduzido pelas turmas de Desenvolvimento de Sistemas na matéria de Back-End
 
 ## 🚀Tecnologias Utilizadas
-- JavaScript 
+- JavaScript
+
+
+##🤹‍♀️Equipe
+
+-Ana Beatriz de Souza de Oliveira 
+-Isabella Borin de Moraes Rosa
+-Giovanna Alba Gomes
+-Maria Eduarda da Silva Parma
