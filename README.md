@@ -20,4 +20,4 @@ Class Chat
 -Giovanna Alba Gomes
 Diagrama, Pesquisa (comentários) no Chat.js
 -Maria Eduarda da Silva Parma
-Diagrama
+Diagrama e comentários no cadastro.routes.js
