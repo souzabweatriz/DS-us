@@ -18,6 +18,6 @@ Criou Models (arquivos) Etapa 1
 -Isabella Borin de Moraes Rosa
 Class Chat
 -Giovanna Alba Gomes
-Diagrama 
+Diagrama, Pesquisa (comentários) no Chat.js
 -Maria Eduarda da Silva Parma
 Diagrama
