@@ -15,20 +15,22 @@ O Jogo DS-us é baseado no jogo super conhecido Among-us, reproduzido pelas turm
 ### <li>Ana Beatriz de Souza de Oliveira:
 <li> Criou as Etapas;
 <li> Criou Models (arquivos e pasta) Etapa 1;
-<li> Criou o método Put e Delete
+<li> Criou a pasta src da Etapa 1 e 2;
+<li> Criou o método Put e Delete do arquivo "cadastro.routes.js" da pasta Routes da Etapa 3;
+<li> Arrumou a hierarquia de pastas.
 
 ### <li>Isabella Borin de Moraes Rosa
-<li> Class Chat;
+<li> Class Chat.js e o arquivo teste.js ambos da Etapa 2;
 <li> Criou Routes (pasta e arquivos) da Etapa 3
 <li> Criou o arquivo "gameInstance.js";
 <li> Ajustou o "server.js"
-<li> Criou o método Get e Post.
+<li> Criou o método Get e Post do arquivo "cadastro.routes.js" da pasta Routes da Etapa 3.
 
 ### <li>Giovanna Alba Gomes
-<li> Diagrama
-<li> Pesquisa e comentários no Chat.js
+<li> Diagrama de Class Chat;
+<li> Pesquisa e comentários no Chat.js.
 
 ### <li>Maria Eduarda da Silva Parma
 
-<li> Diagrama 
-<li> Comentários no cadastro.routes.js
+<li> Diagrama de Class do Chat;
+<li> Comentários no cadastro.routes.js.
